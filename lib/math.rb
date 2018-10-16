@@ -22,6 +22,6 @@ def square_root
   Math.sqrt(81)
 end
 
-def order_of_operation(num1, num2, num3, num4)
-  #Hint:  7+ ((43* 23 /83)
+def order_of_operation
+  7+ ((43* 23)/83)
 end
