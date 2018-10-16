@@ -11,10 +11,10 @@ def division
 end
 
 def multiplication
-  40*30
+  4*30
 end
 
-def modulo(num1, num2)
+def modulo
 end
 
 def square_root(num)
