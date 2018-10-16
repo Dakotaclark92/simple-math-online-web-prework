@@ -15,6 +15,7 @@ def multiplication
 end
 
 def modulo
+  34%5
 end
 
 def square_root(num)
