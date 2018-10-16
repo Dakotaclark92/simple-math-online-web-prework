@@ -11,6 +11,7 @@ def division
 end
 
 def multiplication
+  40*30
 end
 
 def modulo(num1, num2)
