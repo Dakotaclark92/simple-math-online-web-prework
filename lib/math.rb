@@ -7,10 +7,10 @@ def subtraction
 end
 
 def division
-  
+  50/2
 end
 
-def multiplication(num1, num2)
+def multiplication
 end
 
 def modulo(num1, num2)
